@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "Go to the mall",
+      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus suscipit tincidunt bibendum. Cras in luctus felis, vel aliquam mauris. Cras porttitor gravida neque sit amet pellentesque. Sed ut orci eu justo pellentesque hendrerit. In eleifend facilisis dolor. Nullam semper mi velit, sed tincidunt mauris sodales et. Etiam cursus libero risus, in pellentesque orci consequat ut. Sed congue viverra nibh vel fermentum. Duis massa nisi, maximus ut enim eget, lobortis congue justo. Fusce erat nisi, varius a lorem vel, congue porta dolor. Curabitur ornare sem est, non sagittis nisl consectetur at. Suspendisse lobortis quam mi, quis pharetra velit imperdiet vel.",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "Eat something before bed",
+      "details": "Phasellus eu commodo risus. Aliquam erat volutpat. Mauris ultricies ultricies aliquam. Ut tincidunt lectus metus, nec posuere massa ornare bibendum. Duis non nisi a risus malesuada tempus. Praesent posuere a quam et faucibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed sit amet faucibus nisl.",
+      "category": "reminder",
+      "id": 5
+    },
+    {
+      "title": "Go to the gym",
+      "details": "Curabitur ornare placerat magna, in sollicitudin nulla scelerisque non. Sed sed turpis porta odio rutrum suscipit. Sed maximus at tellus sit amet eleifend. Maecenas et pulvinar nisl, vestibulum ",
+      "category": "todos",
+      "id": 6
+    }
+  ]
+}
