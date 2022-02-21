@@ -70,7 +70,7 @@ const Layout = ({ children }) => {
             >
                 <Toolbar>
                     <Typography className={ classes.date}>
-                        Todat is the { format(new Date(), 'do MMMM Y') }
+                        Today is the { format(new Date(), 'do MMMM Y') }
                     </Typography>
                     <Typography>
                         Pakdee H.
